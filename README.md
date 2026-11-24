@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mysql,git,github,vscode&perline=6" />
 </p>
 
 ### 🚀 Featured Project
